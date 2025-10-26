@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: fapcraft
+Implementation-Version: 1.1
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2024-01-07T00:24:16+0200
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+

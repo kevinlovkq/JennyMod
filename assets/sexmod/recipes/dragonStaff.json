@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C",
+    "G",
+    "I"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:end_crystal"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "sexmod:dragon_staff",
+    "data": 0
+  }
+}
